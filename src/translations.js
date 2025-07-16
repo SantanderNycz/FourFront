@@ -87,7 +87,7 @@ export const translations = {
     digitalAgency: "FOUR FRONT",
     heroDescription1: "A multidisciplinary and focused team, responsible for the digital transformation of over 500 clients.",
     heroDescription2: "We turn challenges into solutions.",
-    heroDescription3: "The Four Front combines technology with performance to deliver the best results for our clients. We are Web Development. We are Design. We are Performance Marketing. We are your Digital Solution.",
+    heroDescription3: "The Four Front combines technology with performance to deliver the best results for our clients. We are Web Development. We are Design. We are Performance Marketing. We are the four fronts of your digital solution.",
     knowOurTeam: "Know our team",
     
     // Features
