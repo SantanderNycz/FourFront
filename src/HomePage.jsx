@@ -40,8 +40,12 @@ function HomePage({ t, language, setLanguage }) {
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </div>
-            <div className="relative">
-              <div className="bg-gradient-to-br from-primary/20 to-secondary/20 rounded-2xl p-8 h-96 flex items-center justify-center">
+            <div className="relative rounded-2xl h-96 my-1.5">
+              {/* Camada de background com opacidade */}
+              <div className="absolute inset-0 bg-[url('./assets/Logo-s.png')] bg-contain bg-center bg-no-repeat opacity-30 rounded-2xl"></div>
+
+              {/* Conteúdo acima da imagem */}
+              <div className="relative z-10 p-8 h-full flex items-center justify-center">
                 <div className="text-center">
                   <div className="w-24 h-24 bg-primary/20 rounded-full flex items-center justify-center mx-auto mb-4">
                     <Play className="h-12 w-12 text-primary" />
