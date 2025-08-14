@@ -182,18 +182,18 @@ function PortfolioPage({ t, language, setLanguage }) {
             </div>
             <div>
               <h3 className="font-semibold mb-4">{t.letsWork}</h3>
-              <p className="text-sm mb-2">info@fourfront.com</p>
+              <p className="text-sm mb-2">fourfront@gmail.com</p>
               <h4 className="font-semibold mb-2 mt-4">{t.joinUs}</h4>
-              <p className="text-sm">rh@fourfront.com</p>
+              <p className="text-sm">fourfront@gmail.com</p>
             </div>
             <div>
               <h3 className="font-semibold mb-4">{t.portoCenter}</h3>
               <div className="text-sm space-y-1">
-                <p>Rua das Andresas, nº 326</p>
-                <p>4100-051 Porto</p>
+                <p>Rua do Relógio, nº 75</p>
+                <p>4200-226 Porto</p>
                 <p>Portugal</p>
-                <p className="mt-3">+351 22 938 87 06</p>
-                <p>info@fourfront.com</p>
+                <p className="mt-3">+351 915 619 867</p>
+                <p>fourfront@gmail.com</p>
               </div>
             </div>
           </div>

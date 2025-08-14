@@ -214,9 +214,9 @@ function HomePage({ t, language, setLanguage }) {
             </div>
             <div>
               <h3 className="font-semibold mb-4">{t.letsWork}</h3>
-              <p className="text-sm mb-2">info@fourfront.com</p>
+              <p className="text-sm mb-2">fourfront@gmail.com</p>
               <h4 className="font-semibold mb-2 mt-4">{t.joinUs}</h4>
-              <p className="text-sm">rh@fourfront.com</p>
+              <p className="text-sm">fourfront@gmail.com</p>
             </div>
             <div>
               <h3 className="font-semibold mb-4">{t.portoCenter}</h3>
@@ -224,8 +224,8 @@ function HomePage({ t, language, setLanguage }) {
                 <p>Rua do Relógio, nº 75</p>
                 <p>4200-226 Porto</p>
                 <p>Portugal</p>
-                <p className="mt-3">+351 *** *** ***</p>
-                <p>info@fourfront.com</p>
+                <p className="mt-3">+351 915 619 867</p>
+                <p>fourfront@gmail.com</p>
               </div>
             </div>
           </div>
